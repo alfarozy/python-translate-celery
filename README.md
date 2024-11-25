@@ -71,3 +71,8 @@ Sebelum memulai, pastikan Anda memiliki:
   "state": "SUCCESS",
   "result": "Saya sedang belajar Python dan menggunakan Celery untuk penerjemahan teks."
   }
+
+## Pengembang
+Dikembangkan oleh **Koji Xenpai**. Contributions dipersilakan! 🚀
+
+Jika Anda memiliki saran, bug, atau fitur baru yang ingin ditambahkan, jangan ragu untuk membuat issue atau pull request di repositori ini. Kami menghargai setiap kontribusi yang dapat meningkatkan proyek ini.
